@@ -1,2 +1,7 @@
-# marsad-ai-league
-AI-powered Smart Stadium platform for crowd safety, fan experience, and performance analytics – submitted to the AI League Hackathon 2025.
+# مَرْصَد | Marsad
+
+🚀 AI-powered Smart Stadium & Fan Experience platform  
+🎯 Focused on safety, engagement, and performance  
+🏆 Submitted for the AI League Hackathon 2025  
+
+Stay tuned for future updates 👁️‍🗨️
