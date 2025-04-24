@@ -64,6 +64,7 @@ Marsad_AI/
 │   ├── chatbot.py
 │   ├── heatmap.py
 │   └── utils.py
+├── Marsad_AI_League_Presentation_2025.pptx # Presentation
 ├── requirements.txt      # All dependencies
 ├── README.md             # This file
 └── data.yaml             # Dataset configuration (YOLO)
