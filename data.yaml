@@ -1,0 +1,5 @@
+train: dataset/processed/images
+val: dataset/processed/images
+
+nc: 1
+names: ['person']

@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDE configs
+.idea/
+.vscode/
+
+# Model files & weights
+*.pt
+*.h5
+*.pkl
+*.onnx
+
+# Dataset files
+dataset/
+*.zip
+*.tar
+*.gz
+
+# Output images & videos
+outputs/*.mp4
+outputs/*.avi
+outputs/*.gif
+outputs/*.png
+
+# Logs
+*.log
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db

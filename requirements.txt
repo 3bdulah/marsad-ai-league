@@ -1,0 +1,12 @@
+ultralytics==8.0.20
+opencv-python
+numpy
+matplotlib
+mediapipe
+scipy
+tqdm
+flask
+transformers
+torch
+torchaudio
+pillow
